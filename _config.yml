@@ -22,7 +22,7 @@ title: Mahendra's Personal Site
 email: msbaghel@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
  Personal site to share about me.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/mypagesrepo/" # the subpath of your site, e.g. /blog
 url: "https://mahendrabaghel.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: msbaghel
 github_username:  mahendrabaghel
