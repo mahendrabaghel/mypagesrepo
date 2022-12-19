@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "First custom post"
+date:   2022-12-19 00:39:00 -0500
+categories: jekyll update
+---
+Testing the post creation.
